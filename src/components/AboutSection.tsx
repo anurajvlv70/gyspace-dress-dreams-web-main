@@ -68,7 +68,7 @@ const AboutSection = () => {
             <div className="order-1 md:order-2">
               <div className="relative h-96 rounded-lg overflow-hidden">
                 <img 
-                  src="/antique-1838324.jpg" 
+                  src="/gyspace-dress-dreams-web-main/antique-1838324.jpg" 
                   alt="Our Store" 
                   className="w-full h-full object-cover"
                 />
