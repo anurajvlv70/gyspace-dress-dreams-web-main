@@ -9,6 +9,7 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
+  base: "/gyspace-dress-dreams-web-main/", 
   plugins: [
     react(),
     mode === 'development' &&
