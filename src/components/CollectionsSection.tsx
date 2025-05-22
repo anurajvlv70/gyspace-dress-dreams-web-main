@@ -66,7 +66,7 @@ const CollectionsSection = () => {
             description="Bright, playful, and comfy — our kids' dresses are made for every little adventure.
 From twirling florals to stylish casuals, each piece blends charm with comfort.
 Perfect for birthdays, outings, or everyday fun — style your little one with love!"
-            image="/gyspace-dress-dreams-web-main/child-7248693.jpg"
+            image="/child-7248693.jpg"
             link="https://chat.whatsapp.com/F1kiwgMF0STGCVu95Rv2f0"
             position="right"
           />
@@ -76,7 +76,7 @@ Perfect for birthdays, outings, or everyday fun — style your little one with l
             description="Chic, colorful, and crafted with care — our girls' dresses are made to shine.
 From elegant frocks to everyday flair, each design brings out her unique style.
 Perfect for parties, playdates, and everything in between!"
-            image="/gyspace-dress-dreams-web-main/woman-3439787.jpg"
+            image="/woman-3439787.jpg"
             link="https://chat.whatsapp.com/F1kiwgMF0STGCVu95Rv2f0"
             position="left"
           />
@@ -86,7 +86,7 @@ Perfect for parties, playdates, and everything in between!"
             description="Grace meets tradition in our beautifully crafted girls' Kurti dresses.
 With vibrant colors, soft fabrics, and elegant designs, they're perfect for every occasion — from festivals to family gatherings.
 Let her shine in ethnic charm with a modern twist!"
-            image="/gyspace-dress-dreams-web-main/anarkali-kurta-6954528.jpg"
+            image="/anarkali-kurta-6954528.jpg"
             link="https://chat.whatsapp.com/F1kiwgMF0STGCVu95Rv2f0"
             position="right"
           />
@@ -96,7 +96,7 @@ Let her shine in ethnic charm with a modern twist!"
             description="Step into a fairytale with our Princess Collection — crafted for the bride who dreams big.
 From majestic wedding gowns to dazzling reception ensembles, every piece radiates royal elegance.
 Be the queen of your day in timeless beauty and unforgettable style."
-            image="/gyspace-dress-dreams-web-main/woman-4081760.jpg"
+            image="/woman-4081760.jpg"
             link="https://chat.whatsapp.com/F1kiwgMF0STGCVu95Rv2f0"
             position="left"
           />
@@ -105,7 +105,7 @@ Be the queen of your day in timeless beauty and unforgettable style."
             description="Celebrate timeless tradition with our exquisite sarees, designer blouses, and elegant pavadai dhavanis.
 Rich fabrics, intricate embroidery, and graceful drapes — perfect for the bride and every wedding moment.
 Step into heritage with style, and let every detail speak of culture and beauty."
-            image="/gyspace-dress-dreams-web-main/woman-5763248.jpg"
+            image="/woman-5763248.jpg"
             link="https://chat.whatsapp.com/F1kiwgMF0STGCVu95Rv2f0"
             position="right"
           />
