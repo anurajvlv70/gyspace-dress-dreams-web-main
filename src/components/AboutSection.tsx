@@ -61,7 +61,7 @@ const AboutSection = () => {
               <p className="text-gray-700 mb-6">
                 Our founder, inspired by her own journey of self-expression through fashion, created GiSPACE as a space where style meets quality, and where every piece tells a story of craftsmanship and attention to detail.
               </p>
-              <a href="/about" className="inline-block font-medium text-gispace-purple hover:text-gispace-dark-purple transition-colors">
+              <a href="/" className="inline-block font-medium text-gispace-purple hover:text-gispace-dark-purple transition-colors">
                 Read our full story →
               </a>
             </div>
